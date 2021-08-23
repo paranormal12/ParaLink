@@ -8,7 +8,7 @@ ParaLink is a light script for checking the Live/Dead sites from a "text file ur
 
 # Requirements Install : 
 1) pip3 install -r requirements.txt
-"OR"
+)"OR"
 2) pip3 install -r requirements.txt --user
 
 # Usage :

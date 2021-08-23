@@ -8,7 +8,7 @@ colorama
 
 # Requirements Install : 
 pip3 install -r requirements.txt
-OR
+"OR"
 pip3 install -r requirements.txt --user
 
 # Usage :
